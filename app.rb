@@ -1,7 +1,5 @@
 require 'sinatra'
-require 'sass'
 require 'slim'
-require './model'
 
 class Example < Sinatra::Base
 

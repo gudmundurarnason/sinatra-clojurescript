@@ -14,6 +14,6 @@ How to use:
 
 General:
 
-	The ClojureScript is found in sinatra-cljs/src/core.cljs and compiles to sinatra-cljs/public/core.js.
+	ClojureScript is in sinatra-clojurescript/src/core.cljs.
 
-	The project.clj file determines the cljsbuild source directory. This is set to src by default.
+	Project.clj determines 'cljsbuild' source directory.
